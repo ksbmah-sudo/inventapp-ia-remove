@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 pydantic
-rembg
+rembg[cpu]
 Pillow
 python-multipart
